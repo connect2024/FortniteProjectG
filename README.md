@@ -81,8 +81,8 @@ Welcome to the **FortniteProjectG** repository — your ultimate resource for en
 | Feature         | Snapshot                          |
 |-----------------|-----------------------------------|
 | **Aim Strike**  | <img src="https://i.postimg.cc/tJ7csYN3/fortnite-s1.webp"/> |
-| **Visual Aid**  | <img src="https://i.postimg.cc/nr5PBp36/fortnite-s5.webp" alt="Visual Aid" width="300"/> |
-| **UI Glory**    | <img src="https://i.postimg.cc/SNn0stgB/fortnite-23.jpg" width="300"/> |
+| **Visual Aid**  | <img src="https://i.postimg.cc/nr5PBp36/fortnite-s5.webp" /> |
+| **UI Glory**    | <img src="https://i.postimg.cc/SNn0stgB/fortnite-23.jpg"/> |
 
 > *Note*: Placeholder shots shown. Real visuals unlock post-install.
 
